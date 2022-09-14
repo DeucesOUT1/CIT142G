@@ -1,5 +1,5 @@
 @echo off
-git remote set-url origin https://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@github.com/DeucesOUT1/CIT142G.git
+git remote set-url origin https://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@github.com/DeucesOUT1/CIT142G.git
 pause
 git add .
 git commit -m "Auto upload"
